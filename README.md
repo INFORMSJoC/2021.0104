@@ -20,6 +20,18 @@ get a more recent version or would like support**
 
 [![DOI](https://zenodo.org/badge/364773022.svg)](https://zenodo.org/badge/latestdoi/364773022)
 
+elow is the BibTex for citing this data.
+
+```
+@article{PutABibTexKeyHere,
+  author =        {Hooman Hidaji},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {Now You See it, Now You Don’t: Obfuscation of Online Third-Party Information Sharing v2021.0700},
+  year =          {2022},
+  doi =           {10.5281/zenodo.7336098},
+  url =           {https://github.com/INFORMSJoC/2021.0700},
+}  
+```
 ## Description
 
 The goal of this software is to demonstrate the effect of *An Ensemble Learning Approach with Gradient Resampling for Class-imbalanced problems* optimization.
