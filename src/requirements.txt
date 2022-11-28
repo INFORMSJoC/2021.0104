@@ -1,0 +1,14 @@
+autofeat==2.0.10
+DESlib==0.3.5
+gym==0.21.0
+imbalanced_ensemble==0.1.5
+imbalanced_learn==0.8.1
+imblearn==0.0
+matplotlib==3.3.3
+numpy==1.19.2
+pandas==1.1.5
+scikit_learn==1.1.1
+smote_variants==0.3.6
+torch==1.6.0
+torchmetrics==0.6.0
+tqdm==4.55.2
