@@ -18,7 +18,7 @@ get a more recent version or would like support**
 
 ## Cite
 
-
+[![DOI](https://zenodo.org/badge/364773022.svg)](https://zenodo.org/badge/latestdoi/364773022)
 
 ## Description
 
