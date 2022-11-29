@@ -24,7 +24,7 @@ elow is the BibTex for citing this data.
 
 ```
 @article{PutABibTexKeyHere,
-  author =        {Hooman Hidaji},
+  author =        {Hongke Zhao,Chuang Zhao,Xi Zhanga, Nanlin Liu},
   publisher =     {INFORMS Journal on Computing},
   title =         {An Ensemble Learning Approach with Gradient Resampling for Class-imbalanced problems v2021.0104},
   year =          {2022},
