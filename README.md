@@ -26,7 +26,7 @@ elow is the BibTex for citing this data.
 @article{PutABibTexKeyHere,
   author =        {Hooman Hidaji},
   publisher =     {INFORMS Journal on Computing},
-  title =         {Now You See it, Now You Don’t: Obfuscation of Online Third-Party Information Sharing v2021.0700},
+  title =         {An Ensemble Learning Approach with Gradient Resampling for Class-imbalanced problems v2021.0104},
   year =          {2022},
   doi =           {10.5281/zenodo.7336098},
   url =           {https://github.com/INFORMSJoC/2021.0700},
