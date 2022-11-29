@@ -28,7 +28,7 @@ elow is the BibTex for citing this data.
   publisher =     {INFORMS Journal on Computing},
   title =         {An Ensemble Learning Approach with Gradient Resampling for Class-imbalanced problems v2021.0104},
   year =          {2022},
-  doi =           {10.5281/zenodo.7336098},
+  doi =           {10.5281/zenodo.6360996},
   url =           {https://github.com/INFORMSJoC/2021.0104},
 }  
 ```
