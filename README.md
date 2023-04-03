@@ -1,13 +1,13 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-#  An Ensemble Learning Approach with Gradient Resampling for Class-imbalanced problems
+#  [An Ensemble Learning Approach with Gradient Resampling for Class-imbalanced problems](https://doi.org/10.1287/ijoc.2023.1274)
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
-[An Ensemble Learning Approach with Gradient Resampling for Class-imbalanced problems]() by Chuang Zhao. 
+[An Ensemble Learning Approach with Gradient Resampling for Class-imbalanced problems](https://doi.org/10.1287/ijoc.2023.1274) by Chuang Zhao. 
 The snapshot is based on 
 [JOC](https://github.com/Data-Designer/JOC) 
 in the development repository. 
